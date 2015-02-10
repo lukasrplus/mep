@@ -2417,6 +2417,14 @@ input[type="color"],
 /* Mobile Landscape Size */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
 
+  #top-slider .mega-headline h1 {
+    font-size: 36px;
+  }
+
+  #top-slider .text-scroll h1 {
+    font-size: 14px !important;
+  }
+
 }
 
 /* Mobile Portrait Size */
