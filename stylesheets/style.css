@@ -2421,6 +2421,15 @@ input[type="color"],
 
 /* Mobile Portrait Size */
 @media only screen and (max-width: 479px) {
+
+  #top-slider .mega-headline h1 {
+    font-size: 36px;
+  }
+
+  #top-slider .text-scroll h1 {
+    font-size: 16px !important;
+  }
+
    .project-wrap .project-item {
        width: 100%;
    }
